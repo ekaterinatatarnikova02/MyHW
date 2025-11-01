@@ -4,22 +4,6 @@ It includes modules for encryption (Vigenere cipher) and number sequence generat
 as well as command-line scripts and automated tests.
 
 
-## Project Structure
-.
-├── Manifest.toml
-├── Project.toml
-├── link_to_git.pdf
-├── scripts
-│   ├── seq_cli.jl
-│   └── vigenere_cli.jl
-├── src
-│   ├── Crypto.jl
-│   ├── MyHW.jl
-│   └── Numbers.jl
-└── test
-    └── runtests.jl
-4 directories, 9 files
-
 ## How to Run
 Clone the repository and open the project folder:
 
